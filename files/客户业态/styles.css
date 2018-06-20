@@ -3315,7 +3315,7 @@
   top:16px;
   width:24px;
   height:25px;
-  font-family:'anticon';
+  font-family:'anticon Regular', 'anticon';
   font-weight:400;
   font-style:normal;
   font-size:48px;
@@ -3443,7 +3443,7 @@
   top:14px;
   width:24px;
   height:24px;
-  font-family:'anticon';
+  font-family:'anticon Regular', 'anticon';
   font-weight:400;
   font-style:normal;
   font-size:24px;
@@ -3566,7 +3566,7 @@
   left:0px;
   top:0px;
   width:1469px;
-  height:491px;
+  height:273px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -3583,12 +3583,12 @@
   left:0px;
   top:0px;
   width:1469px;
-  height:491px;
+  height:273px;
 }
 #u4536 {
   position:absolute;
   left:2px;
-  top:238px;
+  top:128px;
   width:1465px;
   visibility:hidden;
   word-wrap:break-word;
@@ -9717,7 +9717,7 @@
   top:23px;
   width:22px;
   height:24px;
-  font-family:'anticon';
+  font-family:'anticon Regular', 'anticon';
   font-weight:400;
   font-style:normal;
   font-size:52px;
