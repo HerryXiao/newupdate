@@ -1084,7 +1084,7 @@
   left:0px;
   top:0px;
   width:304px;
-  height:152px;
+  height:116px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
@@ -1114,7 +1114,7 @@
   left:341px;
   top:502px;
   width:304px;
-  height:152px;
+  height:116px;
   font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
@@ -3171,7 +3171,7 @@
   top:16px;
   width:24px;
   height:25px;
-  font-family:'anticon';
+  font-family:'anticon Regular', 'anticon';
   font-weight:400;
   font-style:normal;
   font-size:48px;
@@ -3299,7 +3299,7 @@
   top:14px;
   width:24px;
   height:24px;
-  font-family:'anticon';
+  font-family:'anticon Regular', 'anticon';
   font-weight:400;
   font-style:normal;
   font-size:24px;
@@ -9600,7 +9600,7 @@
   top:23px;
   width:22px;
   height:24px;
-  font-family:'anticon';
+  font-family:'anticon Regular', 'anticon';
   font-weight:400;
   font-style:normal;
   font-size:52px;
